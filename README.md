@@ -15,8 +15,7 @@ I write at ...
 TODO:
 
 - [x] Write a profile README.md
-- [x] Add a CC-BY-SA-4.0 LICENSE.md
-- [ ] Create a repository for my website
+- [x] Create a repository for my website
 - [ ] Create a repository for my protype chess application
 - [ ] Write some actual code
 
