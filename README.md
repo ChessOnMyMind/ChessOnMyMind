@@ -1,16 +1,23 @@
-### Hi there 👋
+GitHub Profile
 
-<!--
-**ChessOnMyMind/ChessOnMyMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there,
 
-Here are some ideas to get you started:
+my name is Paul. I'm deafblind. Born deaf. Gone blind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am …
+
+by day a software developer who builds and contributes to open-source chess projects. By night I'm a chess player exploring ways to get better at the mind game.
+
+I write at ...
+
+[https://chessonmymind.org/](https://chessonmymind.org/)
+
+TODO:
+
+- [x] Write a profile README.md
+- [x] Add a CC-BY-SA-4.0 LICENSE.md
+- [ ] Create a repository for my website
+- [ ] Create a repository for my protype chess application
+- [ ] Write some actual code
+
+-- Paul
