@@ -11,12 +11,3 @@ by day a software developer who builds and contributes to open-source chess proj
 I write at ...
 
 [https://chessonmymind.org/](https://chessonmymind.org/)
-
-TODO:
-
-- [x] Write a profile README.md
-- [x] Create a repository for my website
-- [ ] Create a repository for my protype chess application
-- [ ] Write some actual code
-
--- Paul
