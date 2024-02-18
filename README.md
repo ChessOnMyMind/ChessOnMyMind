@@ -1,5 +1,3 @@
-GitHub Profile
-
 ### Hello there,
 
 my name is Paul. I'm deafblind. Born deaf. Gone blind.
